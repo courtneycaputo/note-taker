@@ -12,26 +12,26 @@
 - [Questions](#questions)
     
 ## Description: <a name="description"></a>
-sample description
+This project was to create an application called Note Taker than can be used to write and save notes. This application uses an Express.js backend to save and retrieve note data from a JSON file. This application has been deployed to Heroku. 
 
 ## Installation Instructions: <a name="installation"></a>
-sample installation
+To install the necessary dependencies, run the following command in terminal `npm install`
 
 ## Usage Information: <a name="usage"></a>
 usage notes
 
 ## License: <a name="license"></a>
-This project is licensed under the Apache_2.0 license.
+This project is licensed under the MIT license.
 
 ## Contribution Guidelines: <a name="contributing"></a>
-notes on contributions
+There are currently no contribution guidelines.
 
 ## Test Instructions: <a name="tests"></a>
-how to test this project sample
+There are currently no tests.
 
 ## Questions: <a name="questions"></a>
 If you have questions regarding this project, you can contact me directly at:
-* Github: <a href="https://github.com/testusername">testusername</a>
-* Email: <a href="mailto:testemail@gmail.com">testemail@gmail.com</a>
+* Github: <a href="https://github.com/courtneycaputo">courtneycaputo</a>
+* Email: <a href="mailto:courtneycaputo@gmail.com">courtneycaputo@gmail.com</a>
 
     
