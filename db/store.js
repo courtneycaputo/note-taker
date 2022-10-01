@@ -13,7 +13,7 @@ class Store {
     }
 
     write(note) {
-        return writeFileAsync('.db/db/json', JSON.stringify(note))
+        return writeFileAsync('.db/db/json', JSON.stringify(note));
     }
 
     getNotes (){

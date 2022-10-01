@@ -8,6 +8,7 @@ router.get('/notes', (req, res) => {
 });
 
 router.post('/notes', (req,res) => {
+    console.log(req.body); // notes showing in console log but not saving
     store.addNote(req.body).then((note) => res.json(note))
     .catch((err) => res.status(500).json(err));
 })
