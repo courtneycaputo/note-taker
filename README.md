@@ -18,7 +18,7 @@ This project was to create an application called Note Taker than can be used to 
 To install the necessary dependencies, run the following command in terminal `npm install`
 
 ## Usage Information: <a name="usage"></a>
-usage notes
+
 
 ## License: <a name="license"></a>
 This project is licensed under the MIT license.
